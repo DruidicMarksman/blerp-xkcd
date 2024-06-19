@@ -1,0 +1,111 @@
+.\"-------
+.\" b l e r p . 1
+.\"
+.TH BLERP xkcd
+.SH NAME
+blerp	
+.SH SYNOPSIS
+.B blerp
+.RI \{ [OPTION | ARGS]\]`
+.SH DESCRIPTION
+.I blerp
+filters local and remote files or resources using 
+patterns defined by arguments and environment variables.
+This behavior can be altered by various flags.
+.SH OPTIONS
+.TP
+.B \-a
+attack mode
+.TP
+.B \-b
+suppress bees
+.TP
+.B \-\—
+flags use em dashes
+.TP
+.B \-c
+count number of arguments
+.TP
+.B \-d
+pipes output to DEBUG.exe
+.TP
+.B \-D
+deprecated
+.TP
+.B \-e
+execute something
+.TP
+.B \-f
+fun mode
+.TP
+.B \-g
+use Google
+.TP
+.B \-h
+check whether input halts
+.TP
+.B \-i
+ignore case (lower)
+.TP
+.B \-I
+ignore case (upper)
+.TP
+.B \-jK
+kidding
+.TP
+.B \-n
+behavior not defined
+.TP
+.B \-o
+overwrite
+.TP
+.B \-O
+opposite day
+.TP
+.B \-p
+set true Pope\; accepts \"Rome\" or \"Avignon\"
+.TP
+.B \-q
+quite mode\; output is printed to stdout instead of 
+being spoken aloud
+.TP
+.B \-r
+randomize arguments
+.TP
+.B \-R
+run recursively on https:\/\/\*
+.TP
+.B \-s
+follow symbolic links symbolic links symbolically
+.TP
+.B \-S
+stealth mode
+.TP
+.B \-t
+tumble dry
+.TP
+.B \-u
+UTF\-8 mode\; otherwise defaults to ansel
+.TP
+.B \-U
+update(Default\: Facebook)
+.TP
+.B \-v
+verbose\; alias to find \/ \-exec cat \{\}
+.TP
+.B \-V
+set version number
+.TP
+.B \-y
+yikes
+.SH "SEE ALSO"
+.IR blerp(1),
+.IR blerp(3),
+.IR blirb(8),
+.IR blarb(51),
+.IR blorp(501)(c)(3).
+.SH BUG REPORTS
+https\:\/\/www.inaturalist.org\/taxa\/47744\-Hemiptera
+.SH COPYRIGHT
+GPL(2)(3\+)CC\-BY\/5.0 RV 41.0 like Gecko/BSD 4(2) or best 
+offer
